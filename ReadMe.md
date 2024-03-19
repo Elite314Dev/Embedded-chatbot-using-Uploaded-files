@@ -11,13 +11,13 @@ This REST API demonstrates how OpenAI embeddings and Langchain can be used to cr
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/RaheesAhmed/openai-embeddings-api.git
+   git clone https://github.com/Elite314Dev/Embedded-chatbot-using-Uploaded-files.git
    ```
 
 2. Install dependencies:
 
    ```shell
-   cd openai-embeddings-api
+   cd Embedded-chatbot-using-Uploaded-files.git
    npm install
    ```
 
